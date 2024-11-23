@@ -1,10 +1,10 @@
-# AirBnB Dataset Exploration: A Supervised & Unsupervised Learning Analytical Journey
+# New York City AirBnB Dataset Exploration: A Supervised & Unsupervised Learning Analytical Journey
 
 This README provides guidance on using the Jupyter notebook `dtk530_i12_aic-wl.ipynb` for analyzing Airbnb listing data in New York City. The notebook contains code and analysis for exploring various aspects of Airbnb listings, including pricing, popularity, and guest ratings.
 
 ## Table of Contents
 
-- [AirBnB Dataset Exploration: A Supervised \& Unsupervised Learning Analytical Journey](#airbnb-dataset-exploration-a-supervised--unsupervised-learning-analytical-journey)
+- [New York City AirBnB Dataset Exploration: A Supervised \& Unsupervised Learning Analytical Journey](#new-york-city-airbnb-dataset-exploration-a-supervised--unsupervised-learning-analytical-journey)
   - [Table of Contents](#table-of-contents)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -24,7 +24,7 @@ Before running the notebook, ensure you have the following installed:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/airbnb-nyc-analysis.git
+   git clone https://github.com/your-username/dtk530-eye-twelve.git
    cd airbnb-nyc-analysis
    ```
 
