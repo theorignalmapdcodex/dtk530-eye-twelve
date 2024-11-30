@@ -86,10 +86,3 @@ Contributions to improve the analysis or extend the functionality are welcome. P
 4. Commit your changes (`git commit -am 'Add some feature'`)
 5. Push to the branch (`git push origin feature/your-feature-name`)
 6. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details[1].
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/31451872/b509befd-a227-427f-9612-d9d437c121ee/dtk530_i12_aic-wl.ipynb
